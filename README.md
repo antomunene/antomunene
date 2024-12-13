@@ -14,21 +14,30 @@ I’m a passionate **Senior Front-End Developer** with a rich journey through ba
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Skills/Tech Stack  
 
 **Frontend**  
-<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" width="18"/> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="18"/> <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="18"/> <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="18"/> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="18"/>  
+- <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" width="18"/> **React.js**  
+- <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="18"/> **Tailwind CSS**  
+- <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="18"/> **HTML5**  
+- <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="18"/> **CSS3**  
+- <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="18"/> **JavaScript**  
 
 **Backend**  
-<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="18"/> <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="18"/> <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="18"/>  
+- <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="18"/> **Python**  
+- <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="18"/> **Java**  
+- <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="18"/> **Node.js**  
 
 **Database**  
-<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="18"/> <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="18"/>  
+- <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="18"/> **MySQL**  
+- <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="18"/> **MongoDB**  
 
 **Other**  
-<img src="https://cdn.simpleicons.org/web3.js/F16822" alt="Web3" width="18"/> <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="18"/> <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="18"/> <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="REST APIs" width="18"/>  
+- <img src="https://cdn.simpleicons.org/web3.js/F16822" alt="Web3" width="18"/> **Web3 Basics**  
+- <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="18"/> **Firebase**  
+- <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="18"/> **Git**  
+- <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="REST APIs" width="18"/> **REST APIs**  
 
----
 
 ## 🌟 Featured Projects  
 
