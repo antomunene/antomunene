@@ -6,27 +6,27 @@ I’m a passionate **Senior Front-End Developer** with a rich journey through ba
 
 ## 👨‍💻 About Me  
 
-- 🌟 **Started in Backend**: Worked with ![Python](https://cdn.simpleicons.org/python/3776AB) and ![Java](https://cdn.simpleicons.org/java/007396), building robust systems and incorporating Python GUI to become a full-stack developer.  
-- 🎨 **Discovered Front-End**: Fell in love with creating interactive user experiences and transitioned to frontend development, specializing in ![React.js](https://cdn.simpleicons.org/react/61DAFB) and ![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss/06B6D4).  
+- 🌟 **Started in Backend**: Worked with <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="18"/> and <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="18"/> to build robust systems, incorporating Python GUI to become a full-stack developer.  
+- 🎨 **Discovered Front-End**: Fell in love with creating interactive user experiences and transitioned to frontend development, specializing in <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" width="18"/> and <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="18"/>.  
 - 🚀 **Current Role**: Front-End Developer building an online recruitment platform to connect job seekers with employers.  
 - 🌐 **Exploring Web3**: Excited about blockchain technology and learning its potential for the future of the web.  
-- 🛠️ **Backend Knowledge**: Proficient in ![Node.js](https://cdn.simpleicons.org/nodedotjs/339933), adding versatility to my skill set.  
+- 🛠️ **Backend Knowledge**: Proficient in <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="18"/>, adding versatility to my skill set.  
 
 ---
 
 ## 🛠️ Skills  
 
 **Frontend**  
-![React.js](https://cdn.simpleicons.org/react/61DAFB) ![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss/06B6D4) ![HTML5](https://cdn.simpleicons.org/html5/E34F26) ![CSS3](https://cdn.simpleicons.org/css3/1572B6) ![JavaScript](https://cdn.simpleicons.org/javascript/F7DF1E)  
+<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" width="18"/> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="18"/> <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="18"/> <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="18"/> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="18"/>  
 
 **Backend**  
-![Python](https://cdn.simpleicons.org/python/3776AB) ![Java](https://cdn.simpleicons.org/java/007396) ![Node.js](https://cdn.simpleicons.org/nodedotjs/339933)  
+<img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="18"/> <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="18"/> <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="18"/>  
 
 **Database**  
-![MySQL](https://cdn.simpleicons.org/mysql/4479A1) ![MongoDB](https://cdn.simpleicons.org/mongodb/47A248)  
+<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="18"/> <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="18"/>  
 
 **Other**  
-![Web3](https://cdn.simpleicons.org/web3.js/F16822) ![Firebase](https://cdn.simpleicons.org/firebase/FFCA28) ![Git](https://cdn.simpleicons.org/git/F05032) ![REST APIs](https://cdn.simpleicons.org/postman/FF6C37)  
+<img src="https://cdn.simpleicons.org/web3.js/F16822" alt="Web3" width="18"/> <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="18"/> <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="18"/> <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="REST APIs" width="18"/>  
 
 ---
 
@@ -34,12 +34,12 @@ I’m a passionate **Senior Front-End Developer** with a rich journey through ba
 
 ### 📝 [Online Recruitment Platform](https://enkaare.com)  
 - **Role**: Senior Front-End Developer  
-- **Tech Stack**: ![React.js](https://cdn.simpleicons.org/react/61DAFB), ![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss/06B6D4), ![Node.js](https://cdn.simpleicons.org/nodedotjs/339933)  
+- **Tech Stack**: <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" width="18"/> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="18"/> <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="18"/>  
 - **Description**: A modern platform connecting job seekers and employers.  
 
 ### 🌐 [Portfolio Website](https://munene.com)  
 - **Role**: Full-Stack Developer  
-- **Tech Stack**: ![React.js](https://cdn.simpleicons.org/react/61DAFB)  
+- **Tech Stack**: <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" width="18"/>  
 - **Description**: A personal portfolio showcasing my projects and skills.  
 
 ---
@@ -62,6 +62,7 @@ I’m a passionate **Senior Front-End Developer** with a rich journey through ba
 ---
 
 💡 *Feel free to explore my work or reach out—let's build something amazing together!* 🚀  
+
 
 <!--
 **antomunene/antomunene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
