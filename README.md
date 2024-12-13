@@ -27,7 +27,7 @@ I’m a passionate **Senior Front-End Developer** with a rich journey through ba
 ## 🌟 Featured Projects  
 
 ### 📝 [Online Recruitment Platform](https://enkaare.com)  
-- **Role**: Front-End Developer  
+- **Role**: Senior Front-End Developer  
 - **Tech Stack**: React.js, Tailwind CSS, Node.js  
 - **Description**: A modern platform connecting job seekers and employers.  
 
@@ -51,7 +51,15 @@ I’m a passionate **Senior Front-End Developer** with a rich journey through ba
 - 💼 [LinkedIn](https://www.linkedin.com/in/munenemade/)  
 - 🌐 [Portfolio](https://www.linkedin.com/in/munenemade/) 
 - 🐦 [X (Twitter)](https://x.com/munene_antoney?t=ZxeDlf1RoryeN5OTUeZwAg&s=09)  
-- 📸 [Instagram](https://www.instagram.com/munenemade/profilecard/?igsh=MTQ4M3d3Zm80aHQ0eA==)   
+- 📸 [Instagram](https://www.instagram.com/munenemade/profilecard/?igsh=MTQ4M3d3Zm80aHQ0eA==)
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](#)  
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=firefox)](#)  
+- [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:munene@example.com)  
+- [![GitHub](https://img.shields.io/badge/GitHub-Explore-black?style=flat-square&logo=github)](https://github.com/munene)  
+- [![Twitter](https://img.shields.io/badge/X-Follow-blue?style=flat-square&logo=twitter)](#)  
+- [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat-square&logo=instagram)](#)  
+
 
 
 
