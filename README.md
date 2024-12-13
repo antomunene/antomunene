@@ -18,30 +18,25 @@ I’m a passionate **Senior Front-End Developer** with a rich journey through ba
 ## 🛠️ Skills  
 
 **Frontend**: React.js, Tailwind CSS, HTML, CSS, JavaScript  
-**Backend**: Python, Java, Node.js  
+**Backend**: Python, Java, Node.js
+**Database**: MySQL, MongoDB    
 **Other**: Web3 Basics, Firebase, Git, REST APIs  
 
 ---
 
 ## 🌟 Featured Projects  
 
-### 📝 [Online Recruitment Platform](#)  
+### 📝 [Online Recruitment Platform](https://enkaare.com)  
 - **Role**: Front-End Developer  
 - **Tech Stack**: React.js, Tailwind CSS, Node.js  
 - **Description**: A modern platform connecting job seekers and employers.  
 
-### 🌐 [Portfolio Website](#)  
+### 🌐 [Portfolio Website](https://munene.com)  
 - **Role**: Full-Stack Developer  
-- **Tech Stack**: React.js, Python Flask  
+- **Tech Stack**: React.js
 - **Description**: A personal portfolio showcasing my projects and skills.  
 
-### 🛒 [E-Commerce Application](#)  
-- **Role**: Front-End Developer  
-- **Tech Stack**: React.js, Firebase  
-- **Description**: Interactive e-commerce platform with dynamic filtering and secure checkout.  
 
-
----
 
 ## 🏆 Achievements  
 
@@ -53,12 +48,14 @@ I’m a passionate **Senior Front-End Developer** with a rich journey through ba
 
 ## 📬 Let’s Connect  
 
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio](#)  
-- ✉️ munene@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/munenemade/)  
+- 🌐 [Portfolio](https://www.linkedin.com/in/munenemade/) 
+- 🐦 [X (Twitter)](https://x.com/munene_antoney?t=ZxeDlf1RoryeN5OTUeZwAg&s=09)  
+- 📸 [Instagram](https://www.instagram.com/munenemade/profilecard/?igsh=MTQ4M3d3Zm80aHQ0eA==)   
 
 
----
+
+
 
 💡 *Feel free to explore my work or reach out—let's build something amazing together!* 🚀  
 
