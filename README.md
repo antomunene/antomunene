@@ -7,7 +7,7 @@ I’m a passionate **Senior Front-End Developer** with a rich journey through ba
 ## 👨‍💻 About Me  
 
 - 🌟 **Started in Backend**: Worked with <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="18"/> **Python** and <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="18"/> **Java** to build robust systems, incorporating Python GUI to become a full-stack developer.  
-- 🎨 **Discovered Front-End**: Fell in love with creating interactive user experiences and transitioned to frontend development, specializing in <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" width="18"/> **React.js** and <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="18"/> **Tailwind CSS**.  
+- 🎨 **Discovered Front-End**: Fell in love with creating interactive user experiences and transitioned to frontend development, specializing in <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" width="18"/> **React.js**, **Next.js**  and <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="18"/> **Tailwind CSS**.  
 - 🚀 **Current Role**: Front-End Developer building an online recruitment platform to connect job seekers with employers.  
 - 🌐 **Exploring Web3**: Excited about blockchain technology and learning its potential for the future of the web.  
 - 🛠️ **Backend Knowledge**: Proficient in <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="18"/> **Node.js**, adding versatility to my skill set.  
