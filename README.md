@@ -17,7 +17,8 @@ I’m a passionate **Senior Front-End Developer** with a rich journey through ba
 ## 🛠️ Skills/Tech Stack  
 
 **Frontend**  
-- <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" width="18"/> **React.js**  
+- <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React.js" width="18"/> **React.js**
+- Next.js  
 - <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="18"/> **Tailwind CSS**  
 - <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="18"/> **HTML5**  
 - <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="18"/> **CSS3**  
